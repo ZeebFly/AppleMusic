@@ -117,7 +117,7 @@ bash start
 
 <br>
 
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
+Now you can deploy Apple Music om scalinggo introduced By @zeebdisini
 
 <br>
 
