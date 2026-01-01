@@ -23,7 +23,7 @@ sudo pip3 install -U pip
 
 **4. Clone the Repository**
 ```bash
-git clone https://github.com/TheTeamAlexa/AlexaMusic && cd AlexaMusic
+git clone https://github.com/ZeebFly/AppleMusic && cd AppleMusic
 ```
 
 **5. Install Python Requirements**
